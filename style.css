@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+    
+}
+body{
+    background-color: black;
+    color: white;
+    height: 100vh;
+    font-size: 100;
+    box-shadow: 10px,10px,100px rgb(255, 255, 34)
+}
+.counter{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    margin:  250px auto;
+    width:100px;
+    background-color: rgb(43, 226, 52);
+    border-radius: 20px;
+    padding:10px;
+    
+   
+}
+.btn{
+
+   color: white;
+   background: none;
+   border: none;
+   font-weight: bold;
+   
+}
+#1{
+
+font-weight: bold;
+}
